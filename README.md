@@ -1,12 +1,51 @@
-# React + Vite
+## **Preview**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Textify App Preview](Preview.png)
 
-Currently, two official plugins are available:
+# **Textify App**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Textify** is a powerful tool for text manipulation that provides users with a variety of features like converting text to uppercase or lowercase, copying text, removing extra spaces, showing reading time, and even converting text to speech. Whether you're editing, formatting, or listening to your text, **Textify** makes the process easy and efficient.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## **Description**
+
+Textify is a versatile text manipulation app that allows users to perform common text operations with ease. It helps to transform, format, and analyze text efficiently. With a user-friendly interface and various features, Textify can be used for writing, editing, accessibility, and more.
+
+---
+
+## **Features**
+
+- **Uppercase/Lowercase**: Convert selected text to uppercase or lowercase with one click.
+- **Text Copying**: Copy the modified text to the clipboard easily.
+- **Remove Extra Spaces**: Clean up the text by removing leading, trailing, and extra spaces between words.
+- **Reading Time**: Automatically calculates and shows an estimated reading time for your text.
+- **Text-to-Speech**: Convert text into speech and listen to it in a natural voice.
+- **Text Preview**: Display a preview of your modified text as you edit.
+- **Multilingual Support**: Supports multiple languages for text manipulation and speech conversion.
+
+---
+
+## **Tech Stack**
+
+- **Frontend**:  
+  - **React** – A JavaScript library for building user interfaces.
+  - **Vite** – A fast and lightweight build tool for modern web apps.
+  - **Tailwind CSS** – A utility-first CSS framework for custom styling.
+
+- **Text Manipulation**:  
+  - JavaScript/HTML5 for handling text conversion and manipulation operations.
+
+- **Text-to-Speech**:  
+  - Web Speech API for converting text to speech.
+
+---
+
+## **Installation**
+
+To get a local copy up and running, follow these steps:
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/textify-app.git
+
