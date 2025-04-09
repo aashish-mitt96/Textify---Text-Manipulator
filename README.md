@@ -31,4 +31,10 @@ Textify is a versatile text manipulation app that allows users to perform common
   - **React** – A JavaScript library for building user interfaces.
   - **Vite** – A fast and lightweight build tool for modern web apps.
   - **Tailwind CSS** – A utility-first CSS framework for custom styling.
+---
 
+## 📺 See Live Demo
+
+Check out the live version of **Textify** in action:
+
+- 🌍 https://textify-text-manipulation.vercel.app/
