@@ -2,7 +2,7 @@
 
 ![Textify App Preview](Preview.png)
 
-# **Textify App** 
+# 🔍 textify.tools
 
 **Textify** is a powerful tool for text manipulation that provides users with a variety of features like converting text to uppercase or lowercase, copying text, removing extra spaces, showing reading time, and even converting text to speech. Whether you're editing, formatting, or listening to your text, **Textify** makes the process easy and efficient.
 
